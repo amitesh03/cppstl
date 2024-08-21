@@ -58,6 +58,7 @@
         "set": "cpp",
         "stack": "cpp",
         "xtree": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "numeric": "cpp"
     }
 }
